@@ -1,6 +1,6 @@
 # Shopping-cart eCommerce Platform
 
-> eCommerce platform built with the Nodejs, Express, JavaScript, MongoDB, Mongoose.
+> eCommerce platform built with Nodejs, Express, JavaScript, MongoDB, Mongoose.
 
 ## Features
 
